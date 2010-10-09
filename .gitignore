@@ -1,0 +1,6 @@
+*.DS_Store
+*~
+*/Build
+*/Documentation
+*debug.txt
+*Frameworks
