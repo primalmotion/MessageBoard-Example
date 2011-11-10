@@ -7,7 +7,7 @@
  */
 
 @import <Foundation/CPObject.j>
-@import <MessageBoard/MessageBoard.j>
+@import "MessageBoard/MessageBoard.j"
 
 @implementation AppController : CPObject
 {
